@@ -1,0 +1,330 @@
+{
+  "competition": {
+    "name": "Blue Cow - Exhibition",
+    "startDate": "2020-12-09",
+    "endDate": "2021-12-30",
+    "phases": [
+      {
+        "budget": 100000.5,
+        "country": "Colombia"
+      },
+      {
+        "budget": 75000.25,
+        "country": "Spain"
+      }
+    ]
+  },
+  "countries": [
+    "Spain",
+    "Argentina",
+    "Colombia",
+    "Chile",
+    "Mexico",
+    "Japan",
+    "Peru",
+    "Equatorial Guinea",
+    "Canada",
+    "United States of America",
+    "Cuba",
+    "Venezuela",
+    "Italy"
+  ],
+  "rappers": [
+    {
+      "realName": "José Miguel Manzano Bazalo",
+      "stageName": "Skone",
+      "birth": "1989-12-27",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://a.wattpad.com/useravatar/fanfics_skone15.256.736736.jpg"
+    },
+    {
+      "realName": "Alejandro Andrés Lococo",
+      "stageName": "Papo",
+      "birth": "1991-12-05",
+      "nationality": "Argentina",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/xwujsqtdi13mug1bcuqf.jpg"
+    },
+    {
+      "realName": "Elsa Polindo del Charco",
+      "stageName": "Crazy Frog",
+      "birth": "1981-06-30",
+      "nationality": "Spain",
+      "level": 2,
+      "photo": "https://a.wattpad.com/useravatar/CrazyFrog4Evr.256.938833.jpg"
+    },
+    {
+      "realName": "Mateo Palacios Corazzina",
+      "stageName": "Trueno",
+      "birth": "2002-03-25",
+      "nationality": "Argentina",
+      "level": 2,
+      "photo": "https://i.pinimg.com/474x/9a/19/66/9a1966b37f2c933f7ca4b298c48867b7.jpg"
+    },
+    {
+      "realName": "Ivo Alfredo Thomas Serue",
+      "stageName": "Khea",
+      "birth": "2000-04-13",
+      "nationality": "Argentina",
+      "level": 2,
+      "photo": "https://a.wattpad.com/useravatar/love_you_Khea_7w7.256.988712.jpg"
+    },
+    {
+      "realName": "Elba Zurita Acosta",
+      "stageName": "AVC Residuos S.L.",
+      "birth": "1997-09-12",
+      "nationality": "Chile",
+      "level": 1,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn%3AANd9GcRNWn-aKH2Y32vslSQuWc4fo_A-FgjEpvJhgA\u0026usqp\u003dCAU"
+    },
+    {
+      "realName": "Cristóbal Andrés Palacios Morales",
+      "stageName": "Stigma",
+      "birth": "1995-06-05",
+      "nationality": "Chile",
+      "level": 2,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/v1593686732/l_Pyg_Qm_RO_400x400_8961ca9c34.jpg"
+    },
+    {
+      "realName": "Marshall Bruce Mathers III",
+      "stageName": "Eminem",
+      "birth": "1972-10-17",
+      "nationality": "Argentina",
+      "level": 2,
+      "photo": "https://i.pinimg.com/474x/32/d1/84/32d184754869e036eb51f6497a04d0c8.jpg"
+    },
+    {
+      "realName": "Mauricio Hernández González",
+      "stageName": "Aczino",
+      "birth": "1991-07-02",
+      "nationality": "Mexico",
+      "level": 2,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/v1583620726/p2zz1boiohgjvcxtivfd.jpg"
+    },
+    {
+      "realName": "Ghon A. Ria",
+      "stageName": "ETS",
+      "birth": "1987-01-03",
+      "nationality": "Japan",
+      "level": 1,
+      "photo": "data:image/jpeg;base64,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\u003d"
+    },
+    {
+      "realName": "Guillermo Rodríguez Godínez",
+      "stageName": "Arkano",
+      "birth": "1994-03-23",
+      "nationality": "Spain",
+      "level": 2,
+      "photo": "https://cdn130.picsart.com/273970026017201.png?type\u003dwebp\u0026to\u003dcrop\u0026r\u003d256"
+    },
+    {
+      "realName": "Joel Andrés Mellado Vásquez",
+      "stageName": "Ricto",
+      "birth": "1989-05-24",
+      "nationality": "Chile",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/ii8bncfcplqqr3dlgzqn.jpg"
+    },
+    {
+      "realName": "Rosa Melano Suave",
+      "stageName": "SoftHole",
+      "birth": "2004-02-28",
+      "nationality": "Peru",
+      "level": 2,
+      "photo": "https://pbs.twimg.com/profile_images/3738927468/231d4521757fd531ed8399986214e6e0.jpeg"
+    },
+    {
+      "realName": "Sergio Castro Gisbert",
+      "stageName": "Chuty",
+      "birth": "1993-02-12",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/wxpwmvj9cmioqdrhv8dp.jpg"
+    },
+    {
+      "realName": "Javier Bonet González",
+      "stageName": "Bnet",
+      "birth": "1998-05-12",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/v1583620715/bnl9dpxnaetxcy8ngps8.jpg"
+    },
+    {
+      "realName": "Alex Boris Pino Carrasco",
+      "stageName": "Kaiser",
+      "birth": "1989-11-02",
+      "nationality": "Chile",
+      "level": 2,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/ofzjzuzkfss2brluhow4.jpg"
+    },
+    {
+      "realName": "Alma Marcela Goza de Alegría",
+      "stageName": "Misco",
+      "birth": "1999-10-16",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://pbs.twimg.com/profile_images/687009707228200960/44G8J6MJ_400x400.jpg"
+    },
+    {
+      "realName": "Gastón Sebastián Serrano",
+      "stageName": "Dtoke",
+      "birth": "1986-01-09",
+      "nationality": "Argentina",
+      "level": 2,
+      "photo": "https://pm1.narvii.com/6323/b9b8aca0a72c5171ef0d76b2c7d5fbf6a2cab16b_128.jpg"
+    },
+    {
+      "realName": "Rosalia Vila i Tobella",
+      "stageName": "La Rosalía",
+      "birth": "1993-09-25",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://a.wattpad.com/useravatar/Clown-RosaliaA.256.773155.jpg"
+    },
+    {
+      "realName": "Aubrey Drake Graham",
+      "stageName": "Drake",
+      "birth": "1986-10-24",
+      "nationality": "Canada",
+      "level": 1,
+      "photo": "https://i.pinimg.com/originals/29/83/cf/2983cf749daf1d3ce98c0cbad6a10f6b.jpg"
+    },
+    {
+      "realName": "Talula Does The Hula From Hawaii",
+      "stageName": "Tula",
+      "birth": "1945-05-04",
+      "nationality": "United States of America",
+      "level": 2,
+      "photo": "https://styles.redditmedia.com/t5_1yrcms/styles/profileIcon_x2m6ednl3jt51.jpg?width\u003d256\u0026height\u003d256\u0026crop\u003d256:256,smart\u0026frame\u003d1\u0026s\u003db0a7b783dfc5cb0b8d3652399aa8761724e525cd"
+    },
+    {
+      "realName": "Alfredo Rueda Unsain",
+      "stageName": "Alfred the Boss",
+      "birth": "1978-07-08",
+      "nationality": "Colombia",
+      "level": 2,
+      "photo": "https://cdn.slidesharecdn.com/profile-photo-AlfredoRuedaUnsain-96x96.jpg?cb\u003d1523394141"
+    },
+    {
+      "realName": "James B. Grossweiner",
+      "stageName": "Kneegrow",
+      "birth": "1985-02-04",
+      "nationality": "Canada",
+      "level": 1,
+      "photo": "https://pbs.twimg.com/profile_images/378800000745116239/47f86672e27032ec3ea6ddd1d8592095.png"
+    },
+    {
+      "realName": "José Manuel Rejón Rodríguez",
+      "stageName": "Sweet Pain",
+      "birth": "1997-11-22",
+      "nationality": "Spain",
+      "level": 2,
+      "photo": "https://pm1.narvii.com/6506/ebf6770d92d3d5b3c4d245aca1edd5b73bce7063_128.jpg"
+    },
+    {
+      "realName": "Jenny Talia",
+      "stageName": "Spaget",
+      "birth": "1994-08-17",
+      "nationality": "Italy",
+      "level": 2,
+      "photo": "https://m.media-amazon.com/images/I/516KLHzyjTL._AA256_.jpg"
+    },
+    {
+      "realName": "Nicole Denise Cucco",
+      "stageName": "Nicki Nicole",
+      "birth": "2000-08-25",
+      "nationality": "Argentina",
+      "level": 2,
+      "photo": "https://c-sf.smule.com/rs-s-sf-1/arr/50/5f/2d95ff72-c785-468d-ab49-a59ff1723f03.jpg"
+    },
+    {
+      "realName": "Valentín Oliva",
+      "stageName": "Wos",
+      "birth": "1998-01-23",
+      "nationality": "Argentina",
+      "level": 2,
+      "photo": "https://a.wattpad.com/useravatar/WosHacemeTuya.256.722221.jpg"
+    },
+    {
+      "realName": "Pedro Elias Aquino Cova",
+      "stageName": "Akapellah",
+      "birth": "1991-11-16",
+      "nationality": "Venezuela",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/pr5bicakb6k6m65yy0js.jpg"
+    },
+    {
+      "realName": "E. Jack Ulate",
+      "stageName": "El Prisas",
+      "birth": "1989-12-25",
+      "nationality": "Canada",
+      "level": 1,
+      "photo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBUSEhIWFRUVFRcVFRcWFxUWFxcVFhUWFxUXFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGi0lHx8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAgMEBQYHAQj/xABEEAABAwIDBAcFBQYEBgMAAAABAAIDBBEFEiEGMUFRBxMiYXGBkTJSobHBFCNCYnIVM1OS0eFDovDxFjRUc4LCJKOy/8QAGwEAAQUBAQAAAAAAAAAAAAAAAAECAwQFBgf/xAA3EQACAgIBAwMDAwIFAgcBAAAAAQIDBBEhBRIxE0FRBiIyFGFxFZEjMzRSgUJiJDWhscHh8Bb/2gAMAwEAAhEDEQA/ANIXke9s2vBm+3O0clTKcOoLvcbiZzTpYDtNzctLE99l1fS8CNEVkXcfCKltj8IT2M20ZHQRRuu6Rj+rI5Mvo4+XyR1LpjtyJSXhrZewKHcm/g0prrgEbiuVnHtk4/AzWuDqYAEABAAQAEABAAQAEABAAQB1psbqWM+2Sn/+4GvwWOmkzNB7l6fh3K6mM17oyZx0xZWhoEABAAQAEABAAQAEANMVr46eF80rgGRtLnE8gEB7mL7AQHEsSnxaqH3MJu3NuDrXY0fpZY+YSRT/ABQ61qv7ic2fhdimKPqpAeqiILQd1h+7b69rzWta/QpUPkyK161veasFlGqdQIY5t7tS9pFDR3dUy9k5d7A7gOTrHyC4XpXToqP6m/iKNKyzb0guH0cOD0mtn1MntcSXchyaL+adddZ1G5OPEIl7Ew3bLbKJTUL2VcsUzMr5o3Sx8O3cPFh3tDx6LoZWxnTFw51wybHsVGV2r8Wa3sbX9dRxknVoyO8W6LiuqU+ne2vDEzK+y1/uTaziqBIAEABAAQAEABAAQKBAiAlAF0CbTJjBpLsI5H4Luvpy7ux+1+z/APQz8lfdtEjddGVdoF0BtAugXZ1AAugDl0AdQBxAGO9NGOPnmhwmmuXPc0zW5uP3bD3b3HySMckOdpWNoaKDCabV7gDLl3kuPG3FzvgFoYdSb75eEZ2Za5fYvJf9ksEbSUrIh7XtSHm92p8uHkq2Ra7JtlmipVwSJpQkvuBM5HGL7O4SzDIHVlWc1TKLnUFwLtcgPO+8rjMvJlnWrHo/BGzh4crZdq/5HOz2FSVcv22pGl7xsO6w3G3JQ5eTXiw9Crz7mrkXxph6Nf8AcYdK9P1bqauaNYpAx/6TqPkR5hWOg3d6nRJ8vkwre6M1IdbD1QjqpoL9mQCWPwOunkfgo+q099Smvbg3MrVtELEXtcz7GUgJRwEggEABAASgBGhGwr5A0XcQBzOg+KlrpsteoR2xspRhy+CFrdrKSLTrM55MGb47lu430xn5CT7dfyULep48PfbIWq6QBujhJ73ut8AugxvodpbyJ/2M6zrcU/tTImo24qXezkZ4C/zW1j/R+HBfduRVn1q9+EMXbWVnCoe2/u2C2cXo+Nj/AIQSKU82+fLY2ftBVnfUy/zlXv01XwR/qLPkTOO1P/US/wA7v6o/T1fAevZ8h27RVY3VMv8AMfqk/TVfAv6iz5H9PtvXs3VDj+oAqOWFUx8cu1E1Q9KVU394yOQebT6hV59Ni/DLEeoyXlFmwzpSpXkCZj4SePtt9W6/BVJ9PmvBZhnwfkt+G4zT1AvDMx/gdfTeqkqpQ8otxtjLwx5LexsbG2h5Hhoo9kiRm2wuwlRDiNRW1zmSPLj1Lmm4dm1L7HVthYW8eSNCt8aRLYVsfKMRkq6h7ZBfNHa98x0F28MoHPirk8hKvtiUYY7c+6RdgFULiOoFAgDzPUbYumqWy1kLjG3dGw2F/PfqsKPTI1VuNL5fudFVl20VuPptN+5fKDpJw94DXPfDws9hAH/k24XO39AzE3JJS/5KLuTY8x6opa+imhinifmYcuV7TZzdW+BuFFh0ZOJlRc4tBKUZRfJneAYr1YpZHXD4SWPFjcxg6Hv0JHkuwyOm23dyiuJLglx+q49dDrtf8Gl0+2VE/Trsv62uaPUiy5W76a6hXy4cfyUo9Rok/tZMUtbHILxyNePyuB+RWTdh3VPU4ssxug/cXVYl/gCNMAISb8Cb+BpiGJwwNzSvDfHefAcVfw+mZOXLVUWyC7JrpW5MpuK7eONxTssPefqfENXddP8AoyC+7Ilz8GFkdcb4rRVK7E5ZjeSRzvE6ei7LG6bjY8dQgjGtyrbX90hmSryivYrhbo0hyASkevcOThcjuXsL2iTpRw1THP4Q9QYm6R3JNcn8D1FfJ2CbNcEaors7vYScNcjhTaRFtnCk0g2zl0Ch4ZnMdmY4tPNpIPqE2VcX5Q5TkvDLls90k1UBDZ/v4++weB3O4+aoXYMXzHgu05slxI1XZ/aKnrGZ4JAT+Jh0e39TVlTqlB8mnCyM+UyXChRMwyUAIACAMtrNhqR/s5mfpOnoQV55V1nIh8P+TqV1Cx/kkyBrejK9yyVh/Wyx/mafotCv6gTf3R5/bwDycafE6+Su4l0fTxAvyaNFy5juHmFrYvWar3GvXLIMmjClVKSenoj42LvKKUoJo86uk+5re0GLFPKG1yiHua8BWSuYczHFp5gkKjfi02rtsgmWKsicfcsWE7fVENmygTN7zZ48HcfNcz1D6Ux7Oavt/wDY1qeqSiuS9YXtXSTxl4ky2F3Nfo4eXHyXGZHQcyq304x3+68GxDPrlHeyv43t0SSynbYbusdvP6W/Vdb0r6NjFKzJfPwv/kyczq75jUUypqXvcXPcXE8Sbldzj0V48OyEUjCstna9yYkSp+PYi0gpKA0culFClNbFSCl5O71TX9w9LtOBo46qOUoQW5MfGM5+EPKfDJ5PYiPidFVt6lTD3LdPTrrBvUwPY4skblcOH9FPRkRuXBXuolTLTGrBZ6X8ZCPmI4VkgOXQAECnLoAF0ncLrYvQ10kMgkieWPbuIPz5juUVlMbFySwscHtGy7BbetrPuZsrJwNPdkHNvI/lWLk4rr5RrY+Sp8MvIVJMtnUoAQBVV5CbQEuwZG7S/wDJz/8Abd8lpdI/1lf8lfL/AMqWvgxuHcvb61wjg5eQznKUakN5HKOTJYoI2PMm9ux/docRsDdyljXGPhEUpyYbMpBoUlD5F0cugU4gAIAFkaF2PMMwuSodljGg9p3Af3Wbm50cdfuaGHgyyHv2LzgmyUcdi4ZncSVy2T1Gy1nTY+HVUvHgtVNQhu4AeCpOPe/uLHdp8Gf9J1MG1MZH4mG/kV0vQ23F7Of6x4T/AHKP+MLbktyMdfiLlWCE4gU4SgAt0mxwLpoAuhsVINHK5rg5pLXAggjQgjiFFbFSQ6EnFm69HO1wrYckhAnjFnj3hwePHiFh5NXZLg2ca3vXLLiqy5LPgCNMNoqy8iNoCAGmLxZ6eVvONw+CvdOl25Vb/dEN63CSMPa6y9von3QRwtkfuYHvU+xEgrG3SJbYrehfcpktEe9nCUoHLoFCkoFBdIwOZkmxdAzpdh2nQ9HcJ2ktgWOSUrrtAexx7bDx72ngVnZ/Tq8hcvkvYebKiX7fBqmz2KQ1UeeI6j2mn2mnvHLvXK34dlD1NHS15avW4kyGqvrkkTMw6U5L1Ubfdj+ZXSdDX2swuqy2kigulAdqtectSM6EdxFg66sJ7RC1oBKUQ4Smti6ClybsckczJrkLoKZAo3Yhe1itMHSaRsc/nkaXfJMeRFDvRkybwJtbSzx1EdPMC1wuDG/tNJGZp04i/wAFXyLq5x5J6arIy4PRUD8zQbWuAbHeLjcVkP8AY11+4dJsXRVl5EbQEojOFtxZPql2zTEkuTCMXj6qeWM/hkcPK9x8CF7V061Tx4SXwcZlV6ukhtGblaUOSu+B4BorK8EDOFKIFKByCoFSOOKbti6Ck80jkl5Ha34OwRvf+7Y5/gCVBLIjEljTJi8lBO0XdC8DnlP0TVlxYromvYbNIKswlGZC4uPkOHWSpDWh3h1dJBIJYnZXj0I5EcQVDfQrItMlqulW9o2LZfaGOtizCzZG/vGHh3jmO9cjmYdlM+2K8nS4+TXbDbZl22deJq6Z4N2tIjb4MFvnddJ02j0aNPyYWfb326XgqFQbuSzf3Dq19o6ptytU/iV7fIdzlI5EaQQvUTkh/aL4dh89Q/JBE6R3Jov6ncFXsyFEnhU5GhYD0Qyvs6rmEY9yPtO837lRnlt+C3DE+S9YT0e4dBa1O17h+KW7zfnroFVndKRahTGJZoYGNFmta0cgAPgmbJNIUskF0dQAEAVVeQm0BKKBHtsaZJ0hUIbXucLdtrXEd+4/JesfSjnbhrZyvVtRu4K+GDcusilvRlPfkNG7RSIa0dulE0FKHwKjiBTsUTnuDGAucdwH+tB3qtdeoE1VLmXfAdhW6On7Z35b9gd3esqzJlI06sZR8l1psFa1tg0AcgAFWcm/JZUEgtRhgsj+GKv4KHths5lBmiFiPbA3Obz7iFcx7u3yynfQpeCnnUXWxF7W0ZL4emdY5OT2I1yKNkI1a4tJFjYkXHfZNlCM3uSHVycd8iUh0RPSEW2+SPawucqcYNyLjlqI9y2CuqOkVd7G8r7KvbLRLCOy37C7BS19pZCY6e/tfif3M/qs67IS8F2nG3yzccEwWCkiEUEYa0eZJ5uPErPlNy5ZoRiorSJBNTHaOpRAIFAgDl0BsGZAuirLyE2QJUACnQW2kN3qOzF9oaoy1Mr95c8tb4A2bZe19Kx1i4kEvjf9zjMqfr5DLV/wW00bi1v3rW582tyQLkeCI5MvVLdmKvTKC1bMfBky8hrp4gEPyHsGihc94jYLucbAf17lWvuUES01ucjVdkdlmws3XefadzPIcgsW65yZs00qKLnBShotZQJljQdzUbAbTNSoGRGIQAggjn8U9MiaMcxOl6qaSPg1xt4HULexZd0DDyI9sxmxTxRHI6lECuF0jjsVPRxrQNyYo6HuWwKTYw51QJBIvYgkcCAb2PjuUNlXcSQs7TZMD6T6QtbHLE6AABosMzAANwtqAse3BsXKNOvNh4Zd8NxaCobmhlY8flIJ8xvCpyrlHyi5GyMvA9um7H6AgNnUAcKA2Fc6wuTYBDaQRTf2+5Ef8S0n/Ux/zJPUiTf0/J+GR68iNQCAEK+XLFI7kxx9GlXsCCnlVx+WiG/7a5P9jH9nafrayFp17Wc+De187L2q77KVE4/Gj3W7N2oIBkAtv0Kx9/cbWtpowDGKXqqmaP3JHj/MbfBdFjy7oJnP3R7ZtDRTryRa4OuNhdNm9LYJbejQujzZ2zRM8dt+uv4W8B5rDyLu9m1j1dqNNggDRYKmy4K2SCibwlAbTBOQ1kbVhKIZRtky1Y7va0/MLZwPw2Y2avv0QFlfKgCgQKUDkEukY7QAUIGKNSoYw4SCClNK6N2eNzmOG5zSWn1CZKmEvYdG2UfDLzs30m1ERDKsdczdnAAePG2jlm34K8xNCnNfiRq2DYzBVR9ZBI17eNjq08nDe09xWXOEovTNOFkZ+B/dNHnHOsjfAa2ZZ0gbZdYXU1O7sezI8bnHi1p5d6o3XeyOr6P0rWrrfPsjPbN7vRVu9nS8f7TbV5wcSBAMZY0L001v4bvktHpf+sq/lFfK/wAqX8GcdHkV64H3Yz8S0fReyZkvsjo5bAX3s2yEaLH9zYj5ZivSVSdXiMmn7wNkHmLH4groMGS9NIwcyP8AiNlXVvfJU9iU2aw37RUtZbst7TvLcPMqjmXdq0W8WruezcsKpQxo0WJJ7ZtwWkSKQcFKAEZ5GtaXOIaBvJIAHiTuSoQbOka4ZmkOB3EEEHwIThGR9UUqGsynbc//ACz+hv1Wzg/5Zj5v+YV9X/YqHECBHJGPQmU1scgBCYMUaU5MboVCUYwyBoCjexdDrCcUmpZetgeWu48nAcHDiq11EZomrvlB7Nt2K2xirmW9iZgu9l+HvN5j5LCvx5Vs26MhWce5W+kHbO+alp3cxK8H1Y0/MrNvu50jr+kdJ8XWr+EZwFTb2dXLSAkG/ebWvOjiQIATqI8zHN5tI9RZW8SzsyIS+GiK5d0JL9jOujtlq6QH8LLf57L2O97ri/lbOWxF2zkjY4tyz0zU1p7Mh6WMUp5axsMbiZoWFsunZFyCBm4kX15LTwLFvtZmZ0PcpJ0Ws2kZfk0notwz7oykayOJH6Wmw+p81g5c3KRsYcHFGmxtsqZfSDJQClAGX9KLX1bpqZk7YmUlMKmRp/xHuJDG+WUnxIQIVroQx55lkpHuJYWdZGCb5S0gOA8nX8ilTBmpVZUhGZLtdJmq39wA+C2sGOoGPmPcyFCuIqsCUQTckY9CZKjbHIAQmAdqehGKtKcRsNdAh1C5AAS7QB4JnxuzxuLHC+rTY2O8KtfSrYMs4+R6NilEXhlzC/Hj4rjMnHdM33eD17pHUK8qlSXsuQ6qr9zTXPKAkHbNrXnZwwEooEqXuN1tFC2fg6rGJmcw4jwLmn6r1zCyPXwa5/tr+xzTh2ZMkaxBwQi4zzTttjjX19xCGOjfMyVwP70ulcQ4+AsPJT48+yeyLIr74aOF2awZqXaNtxJ0C253RcNmDGpqejftlsOEMDGD8LQPQLAtluR0FSSiTgUbHoCUApQB5m6XKlxxao1Oha3Q8A0aHuQId6Hn2xWLvbKP/qefoEq8g/BuNWVIRmMYrUZ55Hc3u9AbD5LoKF2xRh3PukxqCpyEBKBUJOKbIchMlRMeAFCAUaVIhrFAU8Yzt0CaLLs7sdU1Yzi0cfvvvr+kcVUuzI18FqrDlZyS2J9Hj42XjmzOHBzcoPgblQQzot8k08GSWimSxlri1wsQbEd60ITUlwZ7j2S7WEa7K6/A6FZfUcT1azc6B1KWJek/xbHgXIy89vwetqSlFdv8gRod3I2tecnDgSgApYrYkSqYrD1eK08vCVroz4gf7L0D6ayfUw5U/wC0w8yrstUvk0WldoFuN+EPl7M8vdIVGYsUqm2/xnEeDrEfNJrTEb2ah0N4NDNQtmfG0yRTSRh1hfKMrx/+1IrGhnpr4NUjZYWUZIHsgUKUCBClQHmrpepy3FZ/zFrvVoQxNh+h+AnE4zwbHK4/yZf/AHSLzscuUaxtVX9TTyP45bD9TtArdEPUsTKd0vTgzILreijGYLp+2hNAJRsEJuKa2OQm4qFsejgKNgKNKkQ1hwU/ehvk0PYHYczWqalto97GH8fG7uTfmszKytfajQx8bf3M1QtAFgLAaDhYeCynLZpx48ERis4sQlQPkyLa8t+1G3utv4rdwt9vJhZmu/gg3aiysuPkrRlppjmkfdo7tFxWdV2WM9d+nsr1sOK90K2Wdpmx6Rta8+OLAlQMRq6tkTDJI4NY0XJJsFLCmdk+2C5GzkorbKJtBtlST5Op62R8MrJAWRPcLA2dew0Fr+i7ToeBdiSbl4kZ+S1Yk/gu2AbbUMxEYqGtk07El2O9HLpfllVbM16ccGLauOqb+7nYGkixGdl+PeLeibseol56FaUswoOP+LNJI39NmRj16u/mjSE8F8CAAUChSgQTJSoRsxrps2fe6aOqYwuaWZH5QTlc3cSBwIJQ0OWgvRLgj4+sqXtLQW9Wy+8i93Gx8AEQW2FjSjwd25rXTzCniBcGavt753C/ID4laNFldENzejPursuklBbIWPZipIvlA8Skl1mheB0ej3PyN6vBZoxdzL+Gqnp6tj2PXuRW9Kvgt+SMJWhva2ZzWnphHFMchyQmSomxyAClTBigUsRrLz0cbI/aniomH3DDoP4jxuB/KN/fuVPLyNLUS3jUdz2zZNALDQDcOHJY++58mrxFaRH19aGhCXIFF2l2iZDvOZ59lg+BdyCuU1bZTuuUV5M4qap0jy9xuXG5/t3LYilFcGTJuT2wrSpO4jaFaE6uHeCuY61HU1o9C+jrG65x+B0sTR23qo2ted7OI2BAMp/SjSvkohlvZsgLgOVja/dddH9OTjHI0/JVytuJSuj7bc4YXxSw9ZE92Y5cvWNda2hPtDuJXctIzYyfhmlS7T4FiEdp3QkW3TMyuB7iRcHvBTtDtmT41jjaapkgppftVEHAiKa8jDpq0E6i3AhN0HcbDsXtpTVVMOqjMZjAa6IAWZyy23tUc7ow8ksId5ZKbE43mwdryOhSQvjMV0OI6zqbXwQt6Cucl7RNiT3o0w2hpUSi3NKN2QddK53Yj3nS4/D3+PJVbslV/j5LNOP6j3LwHwnZ9kY3anU8yeZ5lZznZY9yLz9OtagiV+yN5BNcUIrJDLEcKa5psE1px5RLGe+GZHthhQhfnaLBxsRwvvuF0fScyVse2fsYXV8SNb7o+5W3OWw5cGNrQRIB0J0fIPwTey+BvrKhsLdG75He6wHU+J3BNuu9NElNXezfqOCOGJsUYDWMAaB3Dcf6rGlNyZs1qMUM8QxINGiFFAmmyh7U7ROjBbH2pD6M7zzKb60Issw6ZkXrdSM8lgle4ucbk6kk7yp/6lVFDf8A+ZzpPbS/uE+xv7vVOj1Sn5Gy+mMxeyCuY9u9pViHU6n4KN/Q8upcxHGHEkuNtNFmdWuVjXadN9KYttM5d61serE1I7X0UaLsTtP9rjMcoyVMXZlYdCSNMwbwXL9W6d+nl3w/F+5wVU+4swWKyZhZGBwLSAQdCDqCO8J8LJQl3RemI4plKxzo9hku6E5D7p1F+48F02F9QyhFRuW/3KdmLvlFDxbYmoiOsbj3tBd8rrqcXOoyI7hIpyrlH2IKXBpAbZTfwKtKSXkb2S8aLdsFRzUrzLq2+gaeIvfUclSyXBl/HraNigZHMxrwPaF/A8Qqji1+JI5fJ0NmYey645O1+KkjfOPkRwhJeDpq5RvZ6FSrMI3jphTUyH8HxTv1v7Df0v7iZpZH+0bDkFDO+UvBJGuMfI8paJrBoFEov8n5HSltaXgVlNhoht+RsV7FQ2gnqI7vzi3AJi2y3FR+BbZvF3yEtffdex4eBSPaElBMqvSFYxv7i31urfTZS9bjwV+oRi8d7KNhmGTVMoigYXvPAbgObjwC6mdiT2cpXByXBaqno0q2MzF8Zda+UE/AqOOTFvRNLGklvZUJYHMcWOBDmmxB3gq1tdu0Vu170bFsNhzaOmu4Wlks554jTst8lm32dz0adFfaiQr8btuKg4RO+CqY3jrmiwPbO78o5+KqZF/atG70rpjuSslwipucSbk3JWc235O1rrhXHtggqTSHLwBAoEcjWlrWgBLKUpNCKuMfCAn96HGk9JOyb2vGJ0Ay1EOsrG/4sY9q4G82+HgFbuxa7anTJcM8yhY4k3sRjVPiNO2VoAdue2+rXcQsGjpWMpum5fcvD+SaVstbRNEUubJ1jM3u523vytdXf6Fh/wC0Z68x22gj926kj0XDj/0iO+z2GuK4Y18fYADm6tt8QVYWBTXH/CjodXa98lJxVuaMgjVp3W9VS3KL1s0Yxi+SEDEr5HpaLPsrU2Do/MeuqXZHbAsYKCvoMl4E0BGkDbDJRNgJS7DWxliFa2Nt3HwTGySESttpX1Umd4IjB0B4+SZvRPvQ+q42RHONLNypspDopszXbWrzZWDUvde3MDd6n6rT6dVp9xR6rclX6aNW2I2bZQ0rW2BmeM0ruObflB5C9vJaNs3JmbRWoQ5FsbnskSHNlXi2J+1VUdVIcsbdS2xLnkeyfDxUsbmo6IZUpy2XVmGxN/CCebtVA3tlhLSGldhsLh7DfRJ27BfaZntXg/UvMjSS1xsQTcg8PJUMqp72dh0PqMbl6LXgryqHRgQAEABAAQAEAekrLX17+55cYKcFNfidWcPe+mpA4Nnexxa2SQXzBgbzPDu71Q6jk140PUktteCapb4ZaoOh+iczUSA8HF5zX523DwVHFtzr/v4Uf4HT7EMhPW4BURMlmdUUEzsjS8kuiceAJ3eG7TS2q1rJWRr4/IiWmaxS1DZGhzTcFGLkxyI90f8AkZKDiyIx7BOsvJH7fEcHf3Ud+OpfdEtUZHb9rKLUU5a4gixHNZr3F8mompLgXwqXLID5I2NlHfktUNQCEqbK0ojgPS7G9oYPSqQ3tOOkS9wvaNJnyndZvxKbtjkkvI3bh7b5pDndzd9AkH7+DlXiDWDfZI+UOUdvkqON4vcF7nWYN5+g70tVbm9E05KqOyj4JVfaMTgc/wBkzMAHJoOg/wBc101NHpVfuctfd612z0NUS2BUGudlryV1hEsxzey3U8ieAQJsk34kL5W6u4AIFA6Cod7re4m59AhANKrD6m2jmnuuR80qYa3EpO1cr2xvZKwtdcWv48Dx0UOQnKLNLo8tZEd+7KcsqXjjyegP4RxAr4aAgbKUYS1KSQEEfr1e0kBAevX/ALl/cCA9ev8A3L+56ExmU/ZJnRm56mQtI11yOtZbC+TzJMz7oXjYcMgA3mSVz+ZcHcfgue6hu3Nrr9v/AKLcOINmn2W/FfalHjRVabKV0ysj/YtRnsLdWWfrEjMtvl4EpzWxY+UP9hC77LCHbzDGT42C53p+6s+2teGWbmnFFoC6MqEZi2CxzjUWdwcN/nzUFtEZk9V8oeCnYjs9NCbgZm826+o4LNsxpRNKvKjIaRVj27wq3KLOoyHkeMW3o2MdQt+2Wo2N9E4cbajYqqEZNoBwTtvQvpJ8DGfGHu3aJYxkwcYw8ldxXHY23u7O73Wn5u3BaGN02y3mXBRyOp1U+OSnYliDp3XedBua3cPHmV0GNh10rT5ZzuVmWXva4QhTzFj2vbva4OHiDdW5wUo8FSEu2WzbKbG3T07ZIwSHjdYgg7iCD4LJsWno2K5bjsiGySsLhoHPIsCoxdlqwWeOKP2ruPtO4k8fJIPTHzsYjH4ggXYaPFYz+II0CeiF2rhiqYDG4i+9h4tcL2KlglJ6GucofdDyY/HJfxGhWZl43oS7n7nd9F6pDLqS/wCqPkUVPels2E3vYWSYMY5xF7C9gpYR2cL9T8ZNcZNpPZHDHx/DcpvTfsyoumY2truYP28P4TkvZL5Qf0yj/v8A7MH7eH8J6T05fKD+mUf9/wDZmnbM7UPp/u5LvhOhG8tH5e7uT6rOdvwcrjZrg+1+CMiqJMGqXTxMdNhs7+sa5mpic72mlu8ee/Tjviycb1Jq6vyjoa7oyjpe5dW9KmEGPP8AbAPymObP4ZAy6u1JqPPkRp7KjimKS4/URxxxviw+F4kkkeMplc3c0Did9hw3lVMvNqx625vn20SRqe9s1PCqewLrWFgGjk0bvBZ3Sq5ucr5r8vAtsl4JFbyIAJRNnCk0KV7aeso4IzJUBt+AA7bjyAHzSfpI3DpZcqeUZodoXyPJjpHFl+yNSQO8gWuobMCqPHcS19Qul/0MLPjmX26SVvy+SgXT4SfFiLH9Ssiua2R8u10XCBx8Xf2Uv9Inv8lohfV4JcxexhUbXP8AwRNb3m5VuHSoLyynPrNj/FcETU4pUS+0825DRvoNFpU4sI/jH+5nXZllj5kxt1HMq7GlIqSm0HDRwUnpxGbb5Lp0d7Msnd18zbsabMadziN5PcFQybu3hF7Gp7uWajV4Sx4v7Jtbs6aLMb3yaWtLRWcYwoMLXMDnODx33vp5JBNErg+BRu7T3F3dew+G9AqRYY8PhaNImebQfiQkHaG9dhUDxbKGngW9kj00S+A8lD2jcaMOzOzXBEX5r/04q1jVOySaKeRb6cWZy02N/X4LQ6hjK2rx4I+jdSeHkKfs/I7BXGzjp6PX67FZBTj4EqwXik/SfkpKGcX9Vr/Epf8AI2wN14GeY/zFLc33HQdIjGWMuB+ods1PTj8ARsPTj8Eyp/PB4K/gksGxmSncbWcx3txu1a4cdNwKfCcocInoyJUPey54XgOF1g66OnjD/wAQygEHvCbfi/qFxNx/g6HGy1YtllpcJjjAAGg3CwAHkFXp6NTB9025P9yxK9vgfgLVWktRRE+TqeDGOIYpHENTc8h9eSr23Rj7ktdMpFNxfaWokOSIWc42a1u8+LuAUddkrefCJ5wjVHnlkfBspJm62e8sp1JJu1vcAd/ijIzG12w8IZjY6i+6flj04bJwYVnSl3GjGaidGFycvUpm0vIrmmRmI7HwyjtgNPNgsf7q5T1Gyp/sU7sSFq48lJxnZt1K7UZmH2X/AEI4FdTg5tN6/wC45jNw7qH+xFvjWxpa5RmqTJvZvZd9Zd2cRsbpe1yTyA+qyM7qUcXhLk1MLAlfy3wIbRbOPpT7WdvO1iPEJmJ1KF70+GPy+nzpW14LhsbXCOmi5ag+OYqtlJuzksY0tVl4o63rfZ3cVV3yW1ytiGKQZW5zuGhPK+l0ojI6hr3wmxbmHAjUdyBN6Hz8bJHs28Uug7hP7TI7U6BOjyuRN6ZTek2YGOAH2szj/wCNrH42Wl077fJn9QKCXLU2ta+TK17i9K+4tyXI9So9Oba8HqH0xn+tjek3zEVk1Y4flPyWdS9MrfVy5rZH4AfuQOTnD4p9/wCRs9Ce8b/kkVAbQECbJpWDwMCAWvcc4dXSQSCSNxa4ehHIjiE+Mu1j67pwl9vg1HZnaeOqblPYlA1aePe08QrULO43cfKjZx7lgCevBb8kVi2I5bsYdeJ5f3VS+/tWkWaae7llLxeuDb66rOTdjNGMVFEps1huQda8dt4/lbwHjzVmE9R0UrluWybKg2OCFNY5Cbwo2OQ1lamtEsSGxOBr2ljxdp3j6qai+VE1KIttEboOMjM8VoTFIWHUbwe5d5gZX6iCaOHzcb9PNotnR5W2Do+Tr+Tv9lhddqfepG50SxSqcfgmtpKITFjDue4NPgd6x8WbVia+TVtgp1yT+B3Ns+2NloW/d29kb2kfiHMHj3rYlKUvJlqMUtIdbPOEcQBN7vdc+BsB6D4o0tCR2WQhrm2OoIsmjyJOzkYN2ve0cgdECaFW4fDFqBrzcbn4pUGiOxGtY1pc4hrW6kncFJCLkxjkkm2ZDtLjP2mcvFwwDKwH3RxPeT81tUQ7YmLfY7JESCrG9ohfjQtTPAdcmwO9ZXU6t1Gv0fLyabP/AA7W38jp1THY9sbjx7lzkU9eDazq+oZUE7tcfuiP2fP3bhyefojIe2v4On6C2sdp/JJqA3wIE0TSnPAgIACADwyFrg5pLXA3BG8FKnoWMnB7RoWzW15lYY5R96B2XDc7x5FSu7UTewL/AFX2/AXE6jK0k71nSblI6KK7UhXAsAAb9pnF3EXY07mjgTzd8lehUoR2ytZd3T7ESzFUfkcHJSMEETGOQRyYKN5QmskiQ9cmMsQKbtVDdgdxabeRXR9CvcbOz2MLrtCdfqe5H7K1PV1TeThlP0+S2us0+pS2vYxOkXdl6Xsy+41MQ1rxvaQVxlMtNM7OcftcSbw3EWuAN9HfA8R5LchLuWzHnHskN8TiDHF25jze/uv3ehsEIa+eRGLEpI9CLjmNfinaE2KHHXHQNKTheQW2ROK7RNjBMj9eDG6uP9E31IlqOFkS/GDM22l2hmqTYgsiB0YPm48Sr1E6/kzMvFyIy1KLRBB60FYvYzHDQq0qVMiaDmMO7J3HQqDM2qWy90qKllwi/dh/2LD7p/mK5D15I9OXRsft29jqlpWxizBYE3OpPzTJzcnyaGNiwx49sfAsmlkCBvJNKc8EAgAIACAJzZIgTO/T9QmWPg2ejr/Ef8FhrZGCSPrDZmYZj3KGrXdydNd9sNlvq5WmK7SCDaxG5aWQ/wDD4M+hqctoYsWZsthikbF0EJTWOSCEpo7Q3qHJrHwRC1r96aTxKvj5+5f/AK4rW6O3+pRndZSeMyq0suWRruTh812WVDvqkjjMWXbbFmq00QlDCfZGvnwXn0lqTid+nuKf7DHFw+neZI7OY83cw7r8bcj3qxVa1wQzgreGR821kNi0ue3m0tzDyIW/Rjysjsw78iumTgyrYttG4ODaYyRt4kmxPg3gFchia8lKeY3+AzZjU7+y+Z55a2+SzuoY7j9yOo+mcqu2TquS37HFg7kd8taSS4OJe9x5TGzqrsf+JHY0raZoY59tWgnTuC0sbLs2kzz/AOo8Kqq6HZxsj4ndkO4FbVGTFy1s56/AtrXclwOoNXDxUmbNKlknRq3PNh+zJJcf5PYI/jo4kFAgAIAmlYPAgIACAAgTQ8wqoySA8NxTLFwaXTLvTt/ktdZEJYj4KtrR19sI2wa9vYZbL100bzTuJMZ3A8CPdPAK3KbcNGDh021XOD8FxY5VTa0GLk3YBHOSMchNz00ekR9VMmslhEhKuVJH32SteCu4/L9ye8gLc6LDeRtGN1ufbj6Ksea7KfhnHVv70aVgmKNEDTfgPXivPcutxtlo77Gkp1IhNqNow0HXtcG/UqxhYcpyTZHl5cKoaXkpLqoEZidTqV2tTjGtRRxdqlObk/cQfJdNlLYJaOB3Hkq2TDvr0yxi2yrtjKL52SjTcXXIXR7Zdp7PjXq6lSXwdUb4Jkmo9zC1AvG8flPyU1T5Rxf1ZDvlW4rwxhgoDoADu1+ae7HXPuRsdOx68nC7JoXgpMrr304Kzdmysr7SpgfT36TKdrfHsO1mpaOn/c4lFAkACAJpWDwICAAgAIACGtiwbi+5FgwupkbF1hBLAcpP9VHLHbW0dd0zJVtSjMUq6yNpbMDqCDpyvqoa4yb0atjjrWi3QTggG+/UeB3KNsj0KGRN2GhJ8yRsckNJqhN2SKJGVNQlJEiJqZU6K29CyelsrW0E9y1nLU+J3LrOgY/bW7H7nKfUF/dYq17EHI+y6BvUtMwEtvaEo8RlYMrJCAeAWXZi1Sm9mlVmW1x0mR7i6/aJJ4k6lJGtV8REnY7eWduplIj9tCsYunxWyKXAqYipuzfAkZpcj+lPZC43Pj23aPWfp2zvwIN+wqqbNtxXyce24I5ghOhLtZBl0Qvr7dc+w0wqmdHHlda9zu7/APRT7JRkVsDElVV2yfuPVEkaDX3cASgcSABAoEATSsHgQEABAAQAEqFXgt+Ff8gfB3zKuR/yzbwf8qH8lPbw8fqqNf5s6PI/BGg4N+4i/wC236qjLyxy8D1yYKN5UMehlKmj0R1QnIeiNlUlP5sLfxRVcV/eu8R8l2/Rf9Iv5OJ63/q3/BGVC0LfyM+kZM9pUJfmTS8BJd5T34HR8BAoo+R3sPKRWqyCwdBWY/kV2K0vs+a4vqn+oPWPpr/y5CyoHQI6E1j6vJwbvP6FNQPygKRDl5YEojAkBAQKBAH/2Q\u003d\u003d"
+    },
+    {
+      "realName": "Tupac Amaru Shakur",
+      "stageName": "Tupac",
+      "birth": "1971-06-16",
+      "nationality": "Cuba",
+      "level": 2,
+      "photo": "https://pbs.twimg.com/profile_images/378800000214936115/bd6994c233bf1fe676d4958c62db6838.jpeg"
+    },
+    {
+      "realName": "Christopher George Latore Wallace",
+      "stageName": "The Notorious B.I.G.",
+      "birth": "1972-05-21",
+      "nationality": "Colombia",
+      "level": 1,
+      "photo": "https://pbs.twimg.com/profile_images/2945652626/df0fc43f504951239b4425faaedef2ae.jpeg"
+    },
+    {
+      "realName": "Cox Ucker",
+      "stageName": "Rucker",
+      "birth": "1979-04-17",
+      "nationality": "United States of America",
+      "level": 1,
+      "photo": "https://styles.redditmedia.com/t5_3mavv/styles/profileIcon_zjlq6apdtcf21.png?width\u003d256\u0026height\u003d256\u0026crop\u003d256:256,smart\u0026frame\u003d1\u0026s\u003dba7b70f20ad1d71038a7764b54169b6dbaa8a662"
+    },
+    {
+      "realName": "Miquel Josep Jacsó",
+      "stageName": "Michael Jackson",
+      "birth": "1958-08-29",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://i.pinimg.com/474x/c7/a8/cf/c7a8cf7ba1791faaf0f44c4690beab8b.jpg"
+    },
+    {
+      "realName": "Pablo Pérez Rueda",
+      "stageName": "Blon",
+      "birth": "1991-07-15",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/vyml21c0zk6gra99di5t.jpg"
+    },
+    {
+      "realName": "Jordi Malé Carbonell",
+      "stageName": "Jota Pelirroig",
+      "birth": "1997-08-21",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "data:image/jpeg;base64,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"
+    },
+    {
+      "realName": "Eduard de Torres Gómez",
+      "stageName": "Edu Towers",
+      "birth": "1988-04-12",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://ar.pinterest.com/pin/656258976938615275/?nic_v2\u003d1a4yg9sbL"
+    },
+    {
+      "realName": "Pol",
+      "stageName": "Pol",
+      "birth": "1998-12-12",
+      "nationality": "Spain",
+      "level": 1,
+      "photo": "https://res.cloudinary.com/freestylestats/image/upload/w_256,c_scale/xwujsqtdi13mug1bcuqf.jpg"
+    }
+  ]
+}

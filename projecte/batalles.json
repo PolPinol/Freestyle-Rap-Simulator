@@ -1,0 +1,90 @@
+{
+  "themes": [
+    {
+      "name": "Cars",
+      "rhymes" : [
+        {
+          "1" : [
+            "Tiene los faros cuadrados,\nde intermitentes dos flores,\nlos asientos son de rayas,\nde muchísimos colores.",
+            "Cuando arrancan el motor,\nse encienden todas las luces,\namarillos, rojos, verdes,\ntodas a la vez relucen."
+          ],
+          "2": [
+            "Lambo, lambo toda mi gente cargando,\nLambo lambo toda mi gente disparando,\nLambo lambo toda mi gente en el bando,\nBando bando sabe que soy él.",
+            "Y las luces de los autos brillan como las estrellas,\nel camino va pasando y yo voy acelerando,\nmientras me doy cuenta que me la estoy marcando,\naunque sé que soy yo el que más está dando."          ]
+        }
+      ]
+    },
+    {
+      "name": "Teachers La Salle",
+      "rhymes" : [
+        {
+          "1" : [
+            "Hablo del profe de tele,\nel llamado señor Gabriel,\nte aburrirás un poquito en su clase,\npero es más bueno que Gargamel."
+          ],
+          "2": [
+            "Mi profe prefe es el de Torres,\nmás rico que los bombones,\nno perderé ni una a D&D oye,\ny con la programación que enseñe ganaré billones.",
+            "Aprendo mates con Sevillano,\nsiempre va rápido y al grano,\ntomo apuntes con la mano,\naunque en los exámenes yo nunca gano."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Furniture",
+      "rhymes": [
+        {
+          "1": [
+            "Hermanito tu no me llegas ni a la suela,\ncoge carretera si no quieres que la cosa se ponga fea,\nte voy a hacer picadillo como una albondiga de Suecia,\nsi es que te monto y desmonto como un mueble de Ikea.",
+            "Cuando me pongo encima de mi dinero,\nnecesito prismáticos para verte,\ny es que me recuerdas a una alfombra,\nno hago más que pisarte."
+          ],
+          "2": [
+            "Contra tí esto no se considera ni un pique,\naléjate de mí, en esto soy de los nobles,\ntu chica se parece a mi dedo meñique,\npues le voy a dar contra todos los muebles.",
+            "Con esas rimas pareces un ficus,\nsolo estás de decoración,\nvete de vuelta para el circus,\na mí no me vas a quitar esta ovación."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shoes",
+      "rhymes": [
+        {
+          "1": [
+            "Mi lírica es lo que me ha traído hasta aquí,\na tí solo te han dejado venir para tener una mascota,\nvales menos que mis Yeezys tus Arimax falsas me lo han dicho,\nvete para la nike Store y deja de dar la nota.",
+            "Cada día que pasa te veo peor,\nparece que un niño de 5 años haya hecho ese tatú,\npéinate y arréglate un poco,\nhasta el bicho en la suela de mis Balenciagas tiene más flow que tú."
+          ],
+          "2": [
+            "Checkea las Jordans de piel,\ncamisa Gucci parezco Pablo en el cartel,\ncon eso a cualquier morra le meto gol como Lionel,\ny es que a tu chica le voy a poner mirando para los lados como las C's de Chanel.",
+            "No me hagas decirte cuando vale este fit,\nsólo con oírlo vas a quedar en déficit,\npor como te estoy dejando esto se debería calificar de explicit,\nsi quieres ver mis Versace te espero en mi suit."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Animation & SFX",
+      "rhymes" : [
+        {
+          "1" : [
+            "Estate alerta,\nel salón del manga empieza,\npero si quieres la entrada,\ntendrás que pegarte una buena duchada.",
+            "Sal de la cueva que ya huele,\n ese olor ya nos duele,\n pon la ropa a lavar,\ny vete a trabajar a la universidad."
+          ],
+          "2": [
+            "Entro en clase viendo muchos colores,\nabundan los pelos tan cantones,\n siento muchas emociones,\n  son los guarros y sus olores.",
+            "Deja la jodida pantalla,\n y ven a dar lo todo en la batalla,\ncon los panas triunfarás,\ncoleccionando anime y figuritas no lo harás."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ADE",
+      "rhymes" : [
+        {
+          "1" : [
+            "No nos vengas con la camisa lacoste,\n que sabemos que la has pillado en una oferta low-cost,\nni de coña tu te la has comprado,\n te la han traído los reyes magos."
+          ],
+          "2": [
+            "Gracias al papi y su visa,\n eligiendo uni no te has dado prisa,\n querías ir a Esade,\n pero has acabado en La Salle."
+          ]
+        }
+      ]
+    }
+  ]
+}
